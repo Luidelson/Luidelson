@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**Luidelson/Luidelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hey there 👋 I'm Luidelson
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub! I’m a software engineer with one year of experience, transitioning from a business background into tech. I’ve always been surrounded by technology, and finally decided to dive in—and i dont regret it whatsoever. Now I build web apps, APIs, and creative tools that solve real-world problems. Glad you stopped by 🚀
+
+## 👨‍💻 A Bit About Me  
+- 💼 I transitioned into tech from the business world, bringing a problem-solving mindset and a love for creating things that work.  
+- 🧠 With one year of experience under my belt, I’ve built projects that focus on usability, scalability, and impact.  
+- 💡 I’m always learning new technologies and enjoy tackling real-world challenges with code.  
+- 🔧 Most of my work is built with **JavaScript**, **Node.js**, **React**, and **MongoDB**—but I’m always expanding my toolkit.  
+- ☁️ Currently diving into cloud services and advanced backend architectures.  
+- 🤝 Open to collaboration, especially on open-source projects that make a difference.
+
+## 🛠️ Projects I'm Proud Of  
+Here are a few highlights from my repo:  
+- [**ShowMe**](https://github.com/Luidelson/ShowMe): A sleek, interactive app for showcasing portfolios and content.  
+- [**WTWR-Backend**](https://github.com/Luidelson/WTWR-Backend): A solid backend setup with RESTful APIs for the WTWR project.  
+- [**WTWR-Frontend**](https://github.com/Luidelson/WTWR-Frontend): A clean, modern React frontend that brings WTWR to life.  
+- [**Spots**](https://github.com/Luidelson/Spots): A location-based app for discovering cool places around you.  
+- [**Todo-App**](https://github.com/Luidelson/Todo-App): A simple, no-frills task manager that just works.
+
+## 📬 Let’s Connect  
+If you want to chat, collaborate, or just say hi:  
+- 📧 Email: lutrunks11@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/luidelson](https://linkedin.com/in/luidelson-franco)  
