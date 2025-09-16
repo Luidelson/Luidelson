@@ -1,5 +1,3 @@
-
-
 # Hey there 👋 I'm Luidelson
 
 Welcome to my GitHub! I’m a software engineer with one year of experience, transitioning from a business background into tech. I’ve always been surrounded by technology, and finally decided to dive in—and i dont regret it whatsoever. Now I build web apps, APIs, and creative tools that solve real-world problems. Glad you stopped by 🚀
@@ -11,6 +9,18 @@ Welcome to my GitHub! I’m a software engineer with one year of experience, tra
 - 🔧 Most of my work is built with **JavaScript**, **Node.js**, **React**, and **MongoDB**—but I’m always expanding my toolkit.  
 - ☁️ Currently diving into cloud services and advanced backend architectures.  
 - 🤝 Open to collaboration, especially on open-source projects that make a difference.
+
+## 🧰 Skills & Tools
+Here’s what I bring to the table:
+- 💻 Languages & Frameworks: JavaScript, Node.js, React, HTML, CSS
+- 🗄️ Databases: MongoDB, SQL
+- 🔌 APIs: RESTful API design and integration
+- 🧪 Debugging & Testing: Chrome DevTools, Postman, and methodical troubleshooting
+- 📦 Version Control: Git & GitHub workflows
+- 🧠 Architecture: Clean code principles, modular design, and scalable backend setups
+- ☁️ Currently Exploring: Cloud services (AWS, Firebase), advanced backend patterns, and deployment pipelines
+- 🌐 Soft Skills: Multilingual communication, product thinking, and business insight to bridge tech and user needs
+
 
 ## 🛠️ Projects I'm Proud Of  
 Here are a few highlights from my repo:  
